@@ -6,5 +6,4 @@ draft: false
 
 This is the about page!
 
-<img src="/content/img/Nerdy-Darth-Vader.jpg" alt="Darth" 
-    title="Nerdy Darth Vader" width="150" height="100" />
+![](/img/Nerdy-Darth-Vader.jpg)
