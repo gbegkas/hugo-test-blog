@@ -5,7 +5,7 @@ draft: true
 toc: false
 images:
 tags:
-  - untagged
+  - Blog, Posts
 ---
 
 My first post!
