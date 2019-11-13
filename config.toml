@@ -20,8 +20,8 @@ theme = "hello-friend-ng"
 
 [languages]
   [languages.en]
-    title = "Welcome to the Dark Side"
-    subtitle = "A simple theme for Hugo"
+    title = "Welcome to the Dark Side ... we have cookies"
+    subtitle = ""
     keywords = ""
     copyright = ""
     readOtherPosts = "Read other posts"
