@@ -55,3 +55,8 @@ theme = "hello-friend-ng"
     identifier = "blog"
     name       = "Blog"
     url        = "/posts"
+
+[params.favicon.color]
+  mask = "#252627"
+  msapplication = "#252627"
+  theme = "#252627"
